@@ -1,0 +1,8 @@
+title: China Model Monitor
+description: "English guide to Chinese AI model APIs — prices, limits, changes, gotchas. Verified weekly."
+permalink: pretty
+markdown: kramdown
+theme: null
+exclude:
+  - DEPLOY-GITHUB-PAGES.md
+  - newsletter
